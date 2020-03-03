@@ -1,0 +1,109 @@
+body{
+  margin: 0;
+  font-family: sans-serif;
+}
+.titlebox{
+background-color: #8ac6d1;
+}
+.text{
+   background-color: white;
+   padding-left: 500px;
+}
+h1{
+ margin: 0;
+ padding-left: 560px;
+ padding-bottom: 10px;
+}
+#firstlabel{
+  padding-left: 90px;
+  margin-right: 10px;
+}
+#secondlabel{
+  padding-left: 90px;
+  margin-right:10px;
+  }
+#thirdlabel{
+  padding-left: 100px;
+  margin-top: 20px;
+  margin-right: 10px;
+  }
+#hi{
+  padding-left: 45px;
+}
+#fifthlabel{
+  position:relative;
+  right:80px;
+}
+#sixthlabel{
+  position:relative;
+  right: 180px;
+  top: 12px;
+}
+.role{
+  padding-left:105px;
+}
+.fourth{
+  position: relative;
+  right:300px;
+  padding-top: 10px;
+}
+  .text{
+    margin: 0;
+  }
+.first{
+  padding-left: 5px;
+  padding-right: 100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.sec{
+  margin-top: 20px;
+  padding-right: 100px;
+  padding-left: 5px;
+  margin-left:2px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.third{
+  margin-top: 20px;
+  margin-left: 2px;
+  padding-left: 5px;
+  padding-right: 100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.select{
+  background-color: ghostwhite;
+  padding-right:20px;
+  position:relative;
+  bottom: 15px;
+  left: 155px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.review{
+  position:relative;
+  right:200px;
+}
+.yooo{
+  padding-left: 140px;
+}
+.dulikeit{
+  position:relative;
+  left: 150px;
+  bottom: 35px;
+}
+.fifth{
+background-color: ghostwhite;
+padding: 5px;
+position:relative;
+right: 70px;
+}
+.secspan{
+  padding-left:160px;
+}
+.sev{
+  position:relative;
+  left:150px;
+  bottom:20px;
+}
