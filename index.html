@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Surey form</title>
+  <link rel="stylesheet" href="css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <form>
+    <fieldset class="titlebox">
+      <h1><strong>Survey Form</strong></h1>
+      <fieldset class="text">
+        <p>Let us know how we can improve in freeCodeCamp</p><br>
+        <label id=firstlabel>*Name:</label>
+        <input class=first type="text" placeholder="Enter your name" /><br>
+        <label id=secondlabel>*Email:</label>
+        <input class=sec type="text" placeholder="Enter your email" /><br>
+        <label id=thirdlabel>*Age:</label>
+        <input class=third type="number" placeholder="Age" /><br>
+        <div class="fourth">
+        <label class="role">Which option best describes your current role?</label>
+        </div>
+              <select class="select" name="qualification">
+               <option value="Student">Student</option>
+               <option value="Employe">Employe</option>
+               <option value="Full time">Full time</option>
+               <option value="Part time">Part time</option>
+             </select>
+         <div class="review">
+           <label id=hi>*How likley is that you would recommend<br> <span class="yooo">freeCodeCamp to a friend?</span></label><br>
+         </div>
+              <div class="dulikeit">
+              <input type="radio" name="review"  select />Definitely<br>
+              <input type="radio" name="review" select />Maybe<br>
+              <input type="radio" name="review" select  />Not Sure<br>
+        </div>
+        <label id="fifthlabel">What do you like most in FCC:</label>
+        <select class="fifth" name="select any option"><
+             <option value="Select a option">Select a option</option>
+        </select><br>
+        <label id="sixthlabel">Things that should be improved in the future<br><span class="secspan">(Check all that apply);</span></label>
+         <div class="sev">
+           <input type="radio" name="projects" select />Front-end Projects <br>
+           <input type="radio" name="projects" select />Back-end Projects <br>
+           <input type="radio" name="projects" select />Data Visualization <br>
+         </div>
+     </fieldset>
+    </fieldset>
+  </form>
+</body>
+
+
+</html>
